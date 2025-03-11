@@ -1,6 +1,4 @@
-# DA_Assessment_3_10
-
-Part 3 of Fetch Assignment: Email/Slack message
+# Part 3 of Fetch Assignment: Email/Slack message
 
 Hi there!
 
